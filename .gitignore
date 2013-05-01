@@ -1,0 +1,6 @@
+packages
+*.csproj.user
+*.v11.suo
+obj
+bin
+App_Data
